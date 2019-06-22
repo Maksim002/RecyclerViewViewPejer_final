@@ -49,8 +49,8 @@ public class MainActivity extends AppCompatActivity implements Listener {
     private List<String> getGalleryImages(){
         List<String> temp = new ArrayList<>();
         temp.add("https://images.wallpaperscraft.ru/image/chashka_struia_kapli_124059_2160x3840.jpg");
-        temp.add("https://images.wallpaperscraft.ru/image/park_osen_derevya_117202_168x300.jpg");
-        temp.add("https://images.wallpaperscraft.ru/image/listya_rastenie_zelenyj_118405_168x300.jpg");
+        temp.add("https://images.wallpaperscraft.ru/image/gory_more_okean_oblaka_noch_96938_2160x3840.jpg");
+        temp.add("https://images.wallpaperscraft.ru/image/gory_kamni_zasnezhennyj_137462_2160x3840.jpg");
         temp.add("https://images.wallpaperscraft.ru/image/les_tuman_derevia_136444_2160x3840.jpg");
         temp.add("https://images.wallpaperscraft.ru/image/les_tuman_vid_sverhu_129318_2160x3840.jpg");
         temp.add("https://images.wallpaperscraft.ru/image/les_derevia_tuman_124708_2160x3840.jpg");
@@ -72,9 +72,9 @@ public class MainActivity extends AppCompatActivity implements Listener {
         temp.add("https://images.wallpaperscraft.ru/image/porsche_sportkar_vid_szadi_128748_2160x3840.jpg");
         temp.add("https://images.wallpaperscraft.ru/image/porsche_sportkar_superkar_127591_2160x3840.jpg");
         temp.add("https://images.wallpaperscraft.ru/image/shary_linii_raznotsvetnyj_142128_168x300.jpg");
-        temp.add("https://images.wallpaperscraft.ru/image/sfery_shar_poverkhnost_111042_168x300.jpg");
-        temp.add("https://images.wallpaperscraft.ru/image/serdtse_krasnyj_goluboj_3d_118096_168x300.jpg");
-        temp.add("https://images.wallpaperscraft.ru/image/relef_obem_blesk_131439_168x300.jpg");
+        temp.add("https://images.wallpaperscraft.ru/image/gory_ozero_vid_sverhu_138105_2160x3840.jpg");
+        temp.add("https://images.wallpaperscraft.ru/image/gory_ozero_oblaka_123362_2160x3840.jpg");
+        temp.add("https://images.wallpaperscraft.ru/image/gory_ozero_oblaka_123185_2160x3840.jpg");
         return temp;
     }
 
