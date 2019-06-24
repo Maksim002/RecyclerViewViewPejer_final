@@ -91,6 +91,7 @@ public class MainActivity extends AppCompatActivity implements Listener {
     public void onBackPressed() {
         if (pager.getVisibility() == View.VISIBLE) {
             pager.setVisibility(View.GONE);
+            recyclerView.setVisibility(View.VISIBLE);
         } else {
             super.onBackPressed();
         }
